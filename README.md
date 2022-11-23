@@ -1,1 +1,1 @@
-# Repository intended for the final test of Lead Mentoring Python-IA .
+# This repository was created in order to create a final assessment project at Dell Lead, I was asked to create a project from a Wikipedia comment dataset that does a text analysis and presents its toxicity analysis, we were asked to create a training script and another classification script, to work with the best model and receive another dataset and deliver a dataset with the analysis results.
