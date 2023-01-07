@@ -17,6 +17,8 @@ O objetivo deste projeto é criar um modelo em que classifica um comentário em 
 
 O conjunto de dados a ser utilizado nesta avaliação é uma sub-amostra de um conjunto de dados público disponível no Kaggle. Ele é composto por comentários da Wikipedia que foram rotulados em diferentes tipos de toxidade. O conjunto de dados foi adaptado para ter somente comentários tóxicos e não-tóxicos.
 
+## ☕ Procedimentos
+
 ### Análise exploratória dos dados
 
 Realize uma Análise Exploratória dos Dados (EDA) no conjunto de dados.
