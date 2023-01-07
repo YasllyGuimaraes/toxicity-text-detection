@@ -57,6 +57,6 @@ As principais ferramentas para construir esse projeto foram:
 
 Linkedin - [yasllyguimaraes](https://www.linkedin.com/in/yasllyguimaraes/)
 
-Project Link: [toxic-text-detection](https://github.com/YasllyGuimaraes/toxic-text-detection)
+Project Link: [toxic-text-detection](https://github.com/YasllyGuimaraes/toxicity-text-detection)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
