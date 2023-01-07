@@ -51,14 +51,14 @@ As principais ferramentas para construir esse projeto foram:
 * [pickle](https://docs.python.org/3/library/pickle.html)
 * [sklearn](https://scikit-learn.org/stable/)
 
-## 📝 Author
+## 📝 Autora
 
 - Yaslly Guimarães - [YasllyGuimaraes](https://github.com/YasllyGuimaraes)
-
-## ☎️ Contact
+      
+## ☎️ Contato
 
 Linkedin - [yasllyguimaraes](https://www.linkedin.com/in/yasllyguimaraes/)
 
-Project Link: [toxic-text-detection](https://github.com/YasllyGuimaraes/toxicity-text-detection)
+Project Link: [toxicity-text-detection](https://github.com/YasllyGuimaraes/toxicity-text-detection)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
